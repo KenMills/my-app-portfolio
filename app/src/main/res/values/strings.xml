@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KMills App Portfolio</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="App1ButtonName">Spotify Streamer</string>
+    <string name="MY_NONODEGREE_APPS">My Nanodegree Apps</string>
+    <string name="BTN_SPOTIFY_STREAMER">Spotify Streamer</string>
+    <string name="BTN_SCORES_APP">Scores App</string>
+    <string name="BTN_LIBRARY_APP">Library App</string>
+    <string name="BTN_BUILD_IT_BIGGER">Build It Bigger</string>
+    <string name="BTN_BACON_READER">Bacon Reader</string>
+    <string name="BTN_MY_OWN_APP">CAPSTONE: My Own App</string>
+    <string name="TOAST_SPODIFY_STREAMER">Spotify Streamer</string>
+    <string name="TOAST_SCORES_APP">Scores App</string>
+    <string name="TOAST_LIBRARY_APP">Library App</string>
+    <string name="TOAST_BUILD_IT_BIGGER">Build It Bigger</string>
+    <string name="TOAST_BACON_READER">Bacon Reader</string>
+    <string name="TOAST_CAPSTONE">Capstone</string>
+</resources>
